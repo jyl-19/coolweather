@@ -23,6 +23,6 @@ public class Suggestion {
 
     public class Sport{
         @SerializedName("txt")
-        public String into;
+        public String info;
     }
 }
